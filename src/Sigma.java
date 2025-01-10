@@ -9,4 +9,8 @@ public class Sigma {
         System.out.println(n);
     }
 
+    public static void partner2Method(int i){
+        System.out.println("hello");
+    }
+
 }

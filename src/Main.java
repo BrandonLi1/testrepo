@@ -3,7 +3,7 @@ public class Main {
     {
         System.out.println("hi brandon clone");
         System.out.println("Hello brandon");
-        System.out.println("skibidi toilet sigma ohio rizz kai cenat gyatt");
+        System.out.println("hello Destiny Huang");
         System.out.println("This line has been changed");
     }
 }

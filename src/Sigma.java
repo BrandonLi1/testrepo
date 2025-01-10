@@ -9,4 +9,7 @@ public class Sigma {
         System.out.println(n);
     }
 
+    public static void powerLevel() {
+        System.out.println("it's over 9000!");
+    }
 }
